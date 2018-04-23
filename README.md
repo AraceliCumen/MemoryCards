@@ -17,9 +17,16 @@
 ## Instrucciones:
 - Usar react o angular, las demás tecnologías quedan a criterio
 - Agregar las indicaciones para correr el juego en el archivo readme y enviarnos el repositorio
-*Será evaluado el código, a nivel lógico y estructural. Procura trabajarlo como un proyecto real y no que solo funcione.
-- Subir el proyecto a GitHub y enviarnos el link para revisarlo.
-- Enviar el lunes 23 de Abril a más tardar a las 4:00 pm.
+
+## Pruebas Locales:
+- Clonar el proyecto: `git clone https://github.com/AraceliCumen/MemoryCards`
+- Instalar dependencias: `npm i`
+- Correr proyecto: `npm start`
+- Open `http://localhost:4200`
+
+## Prueba Firebase-Hosting:
+
+https://memory-cards-eb9f5.firebaseapp.com/
 
 ## Desarrollado por:
 
