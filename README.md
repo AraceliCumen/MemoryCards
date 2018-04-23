@@ -33,4 +33,4 @@ https://memory-cards-eb9f5.firebaseapp.com/
  Araceli Cueva Mendoza 
 
 ## Desarrollado para:
- Emma - Oechsle
+ Ema - Oechsle
