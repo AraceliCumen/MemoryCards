@@ -1,27 +1,29 @@
-# MemoryCards
+# MEMORY CARDS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+ Es un juego de memoria de Cartas
 
-## Development server
+ ![pincipal](https://user-images.githubusercontent.com/32307611/39149528-f95b1d9e-4704-11e8-844a-24058ef2b199.PNG)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Objetivos
+- Mostrar 8 cartas sobre la mesa
+- Las cartas siempre tienen pareja, ningun queda sola.
+- Las cartas cargan aleatoriamente, tanto el tipo y número como el orden sobre la mesa
+- Si encontramos un par, las cartas desaparecerán en su mismo sitio sin moverse las demás
+- Solo son pares las cartas del mismo número y tipo/palo
+- Si se encontraron todos los pares mostrar un mensaje de juego terminado.
+- Eres libre de agregar detalles al juego si deseas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instrucciones:
+- Usar react o angular, las demás tecnologías quedan a criterio
+- Agregar las indicaciones para correr el juego en el archivo readme y enviarnos el repositorio
+*Será evaluado el código, a nivel lógico y estructural. Procura trabajarlo como un proyecto real y no que solo funcione.
+- Subir el proyecto a GitHub y enviarnos el link para revisarlo.
+- Enviar el lunes 23 de Abril a más tardar a las 4:00 pm.
 
-## Build
+## Desarrollado por:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+ Araceli Cueva Mendoza 
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Desarrollado para:
+ Emma - Oechsle
