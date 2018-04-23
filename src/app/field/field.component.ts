@@ -12,8 +12,7 @@ import { WinStatsService } from '../services/win-stats.service';
 
 export class FieldComponent {
   // Número de cartas por defecto
-  public cardsNumber = 8;
-   
+  public cardsNumber = 8; 
   public openedPair = [];
   public cards: CardInterface[];
   public steps: number;
